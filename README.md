@@ -16,6 +16,12 @@ The project bridges the gap between traditional farming practices and modern agr
 
 ---
 
+🎯 Use Case
+Enables farmers to access agricultural knowledge digitally
+Provides real-time problem-solving support
+Helps in data-driven decision making
+Suitable for hackathons, research, and real deployments
+
 ## 🛠️ Tech Stack
 
 **Backend:** Node.js, Express.js  
@@ -61,6 +67,8 @@ yaml
 ```bash
 git clone https://github.com/RudraDelete26/agrointile.git
 cd agrointile
+
+
 Install Dependencies
 bash
 
@@ -75,39 +83,28 @@ DB_HOST=localhost
 DB_USER=your_db_user
 DB_PASSWORD=your_db_password
 DB_NAME=agrointile
+
 ⚠️ Do not commit .env to GitHub.
 Use .env.example for reference.
 
 Run the Application
 bash
-
 node server.js
 Or (Windows):
 
 bash
-
 start.bat
 Access the server at:
-
 arduino
 http://localhost:3000
+
 🔐 Security Considerations
 Sensitive data is handled using environment variables
-
 .env is ignored via .gitignore
-
 Modular architecture reduces attack surface
-
 Developed following secure coding practices
 
-🎯 Use Case
-Enables farmers to access agricultural knowledge digitally
 
-Provides real-time problem-solving support
-
-Helps in data-driven decision making
-
-Suitable for hackathons, research, and real deployments
 
 👨‍💻 Author
 Rudra Marathe
