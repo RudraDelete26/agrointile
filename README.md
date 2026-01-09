@@ -1,4 +1,5 @@
-\# 🌾 AgroIntile – Smart Digital Support Platform for Farme
+# 🌾 AgroIntile – Smart Digital Support Platform for Farmers
+
 
 AgroIntile is a \*\*web-based smart agriculture support platform\*\* designed to empower farmers by providing \*\*digital awareness, real-time assistance, and AI-driven insights\*\*.  
 
