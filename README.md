@@ -41,7 +41,8 @@ agrointile/
 │── README.md # Project documentation
 
 yaml
-Copy code
+
+
 
 ---
 
@@ -62,13 +63,13 @@ git clone https://github.com/RudraDelete26/agrointile.git
 cd agrointile
 Install Dependencies
 bash
-Copy code
+
 npm install
 Environment Variables
 Create a .env file in the root directory:
 
 env
-Copy code
+
 PORT=3000
 DB_HOST=localhost
 DB_USER=your_db_user
@@ -79,17 +80,16 @@ Use .env.example for reference.
 
 Run the Application
 bash
-Copy code
+
 node server.js
 Or (Windows):
 
 bash
-Copy code
+
 start.bat
 Access the server at:
 
 arduino
-Copy code
 http://localhost:3000
 🔐 Security Considerations
 Sensitive data is handled using environment variables
