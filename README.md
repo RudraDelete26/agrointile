@@ -36,18 +36,16 @@ Suitable for hackathons, research, and real deployments
 ## 📁 Project Structure
 
 agrointile/
-│── config/ # Configuration files
-│── controllers/ # Controller logic
-│── routes/ # API routes
-│── views/ # Frontend templates (EJS)
-│── ml_models/ # Machine Learning models
-│── openrouter-demo/ # AI integration demo
-│── database_schema.sql # Database schema
-│── server.js # Main server file
-│── package.json # Project metadata & dependencies
-│── README.md # Project documentation
-
-yaml
+├── config/           # Configuration files
+├── controllers/      # Controller logic
+├── routes/           # API routes
+├── views/            # Frontend templates (EJS)
+├── ml_models/        # Machine Learning models
+├── openrouter-demo/  # AI integration demo
+├── database_schema.sql # Database schema
+├── server.js         # Main server file
+├── package.json      # Project metadata & dependencies
+└── README.md         # Project documentation
 
 
 
