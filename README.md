@@ -17,6 +17,7 @@ The project bridges the gap between traditional farming practices and modern agr
 ---
 
 🎯 Use Case
+
 Enables farmers to access agricultural knowledge digitally
 Provides real-time problem-solving support
 Helps in data-driven decision making
